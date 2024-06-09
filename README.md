@@ -1,1 +1,5 @@
-Try Glidergun
+# Try Glidergun
+
+```
+pip install glidergun
+```
